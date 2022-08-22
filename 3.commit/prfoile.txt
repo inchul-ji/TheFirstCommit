@@ -1,2 +1,2 @@
-email :
-gitID :
+email : inchul0522@naver.com
+gitID : ic.ji
